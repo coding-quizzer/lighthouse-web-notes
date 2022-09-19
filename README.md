@@ -1,3 +1,5 @@
 # William's Notes
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
+
+## Summary
+
+This Repository contains all the notes taken by [William] (https://github.com/coding-quizzer)  for the Lighthouse Labs Web Development Bootcamp.
